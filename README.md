@@ -184,5 +184,10 @@ The project demonstrates how data analytics can directly impact profitability an
 
 ---
 
+# 👨‍💻 Author
+
+**Ritesh Nalawade**  
+Aspiring Data Analyst | Business Intelligence Enthusiast 
+
 
 
