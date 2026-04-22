@@ -4,6 +4,10 @@ An interactive Tableau dashboard analyzing hotel visitor trends, booking pattern
 🔗 **Live Interactive Dashboard:**  
 [View on Tableau Public](https://public.tableau.com/app/profile/ritesh.nalawade/viz/hotel-visitors-analysis/Dashboard1?publish=yes)
 
+## 📸 Dashboard Preview
+
+![Hotel Dashboard](images/dashboard.png)
+
 ---
 
 ## 📌 Project Overview
