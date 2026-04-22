@@ -6,7 +6,7 @@ An interactive Tableau dashboard analyzing hotel visitor trends, booking pattern
 
 ## 📸 Dashboard Preview
 
-![Hotel Dashboard](images/dashboard.png)
+![Hotel Dashboard](dashboard.png)
 
 ---
 
